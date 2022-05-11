@@ -11,4 +11,4 @@
 
  Bu adımlara bakarak sonucun __2^x = n__ o da bize __logn = x__ sonucunu verecektir.
  
- - Big O Time __logn__
+ - Big O Time logn
